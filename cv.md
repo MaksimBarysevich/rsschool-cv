@@ -7,6 +7,7 @@
 - **Phone:** +370 660 27 756
 - **Email:** barysevichmaksim@gmail.com
 - **GitHub:** [MaksimBarysevich](https://github.com/MaksimBarysevich)
+- **Discord:** @MaksimBarysevich
 
 ---
 
