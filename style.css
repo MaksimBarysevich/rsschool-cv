@@ -1,3 +1,25 @@
-p {
-  color: blue;
+* {
+  box-sizing: border-box;
+}
+
+* {
+  border: 1px solid red;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+}
+
+.avatar {
+  border-radius: 90px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  font-style: italic;
+  padding: 10px;
 }
